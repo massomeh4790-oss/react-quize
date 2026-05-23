@@ -19,22 +19,6 @@ An interactive quiz application built with React.js. Users can answer multiple-c
 - **CSS Modules / Tailwind CSS** - Styling (adjust based on your project)
 - **JavaScript (ES6+)**
 
-## 📁 Project Structure
-react-quiz/
-├── public/
-├── src/
-│ │ ├── Question.jsx
-│ │ ├── Options.jsx
-│ │ ├── Progress.jsx
-│ │ ├── Result.jsx
-│ │ └── StartScreen.jsx ...
-│ ├── App.js
-│ ├── index.js
-│ └── index.css
-│── questions.json
-├── package.json
-└── README.md
-
 ## 🚀 Installation & Setup
 
 ### Prerequisites
